@@ -1,0 +1,37 @@
+{
+    "name": "l5a5e-salteador-caminos",
+    "title": "L5A5e El Salteador de Caminos",
+    "description": "Traducción al castellano del módulo gratuito 'The The Highwayman' de Foundry VTT para el juego de rol La Leyenda de los Cinco Anillos",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Nisube",
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "Actores",
+            "module": "l5a5e-salteador-caminos",
+            "path": "packs/world-actores-1663577514811.db",
+            "name": "world-actores-1663577514811"
+        },
+        {
+            "type": "JournalEntry",
+            "label": "Diario",
+            "module": "l5a5e-salteador-caminos",
+            "path": "packs/world-diario-1663577514811.db",
+            "name": "world-diario-1663577514811"
+        },
+        {
+            "type": "Scene",
+            "label": "Escenas",
+            "module": "l5a5e-salteador-caminos",
+            "path": "packs/world-escenas-1663577514811.db",
+            "name": "world-escenas-1663577514811"
+        }
+    ],
+	"url": "https://github.com/Nisube/l5a5e-salteador-caminos",
+    "manifest": "https://github.com/Nisube/l5a5e-salteador-caminos/releases/download/1.0.0/module.json",
+    "download": "https://github.com/Nisube/l5a5e-salteador-caminos/releases/download/1.0.0/l5a5e-salteador-caminos.zip"
+}
