@@ -5,6 +5,8 @@ Basado en el world gratuito facilitado por Edge, pero disponible originalmente s
 
 https://edge-studio.net/shares/l5r-2/
 
+¡¡¡IMPORTANTE!!! Se detectó en el módulo l5a5e-esponsales-kyotei un error en la definición de paths de imágenes de algunos tokens y de las entradas de diario, que esperaban encontrarlas en la estructura de directorios del world original de Edge. No he comprobado si esto también ocurre en este módulo. Si fuera así, de momento, hasta corregir este módulo, hay que instalar también el world original de "The Highwayman" para tener las imágenes correctamente. Disculpad las molestias.
+
 Este módulo se compone de una serie de compendios con los actores, escenas y entradas de diario de la aventura, listos para importar en tu mundo de L5A.
 
 Aclaraciones:
